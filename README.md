@@ -10,3 +10,6 @@ Part 1 : build a DW using star schema
 Part 2 : enrich customer transaction data and store in DW
 
 Part 3 : conduct multidimensional data analysis using OLAP queries
+
+## Part 1 : build a DW using star schema
+
